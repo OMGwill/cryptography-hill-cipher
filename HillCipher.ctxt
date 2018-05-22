@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=int\ determinant(int[][])
+comment1.params=row\ col\ a
+comment1.target=int\ coefficient(int,\ int,\ int[][])
+comment2.params=a
+comment2.target=int[][]\ inverseMatrix(int[][])
+comment3.params=plaintext\ key
+comment3.target=java.lang.String\ encrypt(java.lang.String,\ int[][])
+comment4.params=ciphertext\ keyinv
+comment4.target=java.lang.String\ decrypt(java.lang.String,\ int[][])
+comment5.params=
+comment5.target=void\ main()
+numComments=6
